@@ -1,0 +1,6 @@
+[submodule "Firebreak"]
+	path = Firebreak
+	url = https://github.com/AloySobek/Firebreak
+[submodule "tinyobjloader"]
+	path = tinyobjloader
+	url = https://github.com/syoyo/tinyobjloader.git
